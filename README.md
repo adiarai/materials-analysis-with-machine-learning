@@ -1,3 +1,4 @@
+<img width="627" height="628" alt="ad5" src="https://github.com/user-attachments/assets/b37f98e5-9212-408e-be34-1ed28e9f41ae" />
 [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/costrouc/mse-machinelearning-notebooks/master?urlpath=lab/tree/notebooks/Overview.ipynb)
 
 [![pipeline status](https://gitlab.com/costrouc/mse-machinelearning-notebooks/badges/master/pipeline.svg)](https://gitlab.com/costrouc/mse-machinelearning-notebooks/commits/master)
